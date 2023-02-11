@@ -18,6 +18,6 @@ Part 4: Make a Recommendation.
 
 Part 1 Code
 import pandas as pd
-import matplotlib.pyplot as plt
+
 
 
