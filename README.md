@@ -16,5 +16,6 @@ Part 3: Perform a Cluster Analysis with K-means.
 Part 4: Make a Recommendation.
 
 
+Part 1 Code
 
 
